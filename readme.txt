@@ -1,0 +1,1 @@
+I uploaded readme.txt as an empty file.  Then I echo'd this into the local file from the command line in terminal.  Then I ran the commit command.  Then I successfully pushed the updated file to GitHub!  Problem solving is fun.
